@@ -2,7 +2,7 @@
 
 [BASICS]
 
-The Sugar Phosphate "Backbone" is a p-type semiconductor.
+The Sugar Phosphate "Backbone" is a semiconductor.
 
 Sugar groups are used as circuit trace and solder material for bases.
 

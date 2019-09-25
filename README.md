@@ -1,12 +1,16 @@
 # DNA-as-a-modular-biological-circut
 
+This project aims to better understand DNA from an engineering and mechanical biology standpoint.
+
 [BASICS]
 
-The Sugar Phosphate "Backbone" is a n-type semiconductor similar to a circut board skeleton.
+The Sugar Phosphate "Backbone" is a n-type semiconductor similar to a "barebones" circut board.
 
-Sugar groups operate as circuit trace and solder material for bases which .
+Sugar groups operate as circuit trace and solder material for bases.
 
 Bases (Adenine, Thymine, Guanine and Cytosine) are used as organic resistors in strands of organic circuit.
+
+Each base has a spceific resistance which will be calculated as part of this project.
 
 Calculating the resistance of each base can be used to read "code" within strands of DNA.
 

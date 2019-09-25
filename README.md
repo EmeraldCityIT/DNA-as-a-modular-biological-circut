@@ -10,6 +10,7 @@ Bases are used as resistors in strands of organic circuit.
 
 Calculating the resistance of each base can be used to read "code" within strands of DNA.
 
+
 [GEOMETRY OF DNA AND ELECTRON FLOW]
 
 Electrons travel rapidly through dna strands generating an electromagnetic field as in a copper wire.

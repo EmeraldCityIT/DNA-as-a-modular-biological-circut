@@ -2,9 +2,9 @@
 
 [BASICS]
 
-The Sugar Phosphate "Backbone" is a semiconductor similar to a circut board.
+The Sugar Phosphate "Backbone" is a n-type semiconductor similar to a circut board skeleton.
 
-Sugar groups are used as circuit trace and solder material for bases.
+Sugar groups operate as circuit trace and solder material for bases which .
 
 Bases (Adenine, Thymine, Guanine and Cytosine) are used as organic resistors in strands of organic circuit.
 

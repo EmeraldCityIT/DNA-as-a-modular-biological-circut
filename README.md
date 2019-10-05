@@ -1,7 +1,7 @@
 # DNA-as-a-modular-biological-circut
 This project aims to better understand DNA from an engineering and mechanical biology standpoint. 
 
-Proposal of DNA codons as Base 64 Hexidecimal circuit boards.
+Proposal of DNA codons as Base 64 circuit boards.
 
 The Sugar Phosphate "Backbone" is a n-type semiconductor similar to a "barebones" circuit board.
 (https://www.nanowerk.com/nanotechnology-news/newsid=40905.php)
